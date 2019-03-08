@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Se om innehållet ändras
+=======
+hej
+hej
+Hej
+Test
+>>>>>>> 712e5179d1f4f48bdff727af1eb940f6126b5231
