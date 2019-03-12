@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-
-
-
-Elsas branch har inte lika coola features som Elias branch
-=======
 Hej!/Elsa
->>>>>>> elsa-branch2
+Elsas branch har inte lika coola features som Elias branch
+Hi this is really fun project!!!!
