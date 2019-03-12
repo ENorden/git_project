@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 
 
 
 Elsas branch har inte lika coola features som Elias branch
+=======
+Hej!/Elsa
+>>>>>>> elsa-branch2
